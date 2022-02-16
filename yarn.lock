@@ -1486,14 +1486,19 @@
     "sudo-prompt" "^9.0.0"
     "wcwidth" "^1.0.1"
 
-"@react-native-firebase/app@^14.4.0":
-  "integrity" "sha512-02+gxXZCMkjVRrLNiTx9Wo2fcK0mc2D9btTUwGlf5cpTw9N9TKTw187bwNsvy4PjvldGuNC5TA2tOGpW99eAXQ=="
-  "resolved" "https://registry.npmjs.org/@react-native-firebase/app/-/app-14.4.0.tgz"
-  "version" "14.4.0"
+"@react-native-firebase/app@^14.4.0", "@react-native-firebase/app@14.5.0":
+  "integrity" "sha512-pMTYZA4gQl/m4+9tYE9/3YpGVfuqePg2RF1Fj+/6EUyt6w8y8ADvJyTXzFmJwEkG5CdyWaqvtEyZmsifInUp3w=="
+  "resolved" "https://registry.npmjs.org/@react-native-firebase/app/-/app-14.5.0.tgz"
+  "version" "14.5.0"
   dependencies:
     "@expo/config-plugins" "^4.0.18"
     "opencollective-postinstall" "^2.0.1"
     "superstruct" "^0.6.2"
+
+"@react-native-firebase/firestore@^14.5.0":
+  "integrity" "sha512-cYHGYWXJaAOma3O6GC3P+mBt3E6v3tTbb4c1Q6dFZfci0DefnaGt/nWp5YaE+HFKrrGc25vVyER9RDZsTU6Jjg=="
+  "resolved" "https://registry.npmjs.org/@react-native-firebase/firestore/-/firestore-14.5.0.tgz"
+  "version" "14.5.0"
 
 "@react-native/assets@1.0.0":
   "integrity" "sha512-KrwSpS1tKI70wuKl68DwJZYEvXktDHdZMG0k2AXD/rJVSlB23/X2CB2cutVR0HwNMJIal9HOUOBB2rVfa6UGtQ=="
